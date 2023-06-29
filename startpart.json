@@ -1,6 +1,6 @@
 {
-    "zipUrl": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@main/startpart.zip",
-    "changelog": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@main/startpart_changelog.md",
+    "zipUrl": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@master/startpart.zip",
+    "changelog": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@master/startpart_changelog.md",
     "version": "v0.7.2",
     "versionCode": "172"
 }
