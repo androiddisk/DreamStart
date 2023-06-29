@@ -1,6 +1,6 @@
 {
-    "zipUrl": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@main/zygisk_shamiko.zip",
-    "changelog": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@main/zygisk_shamiko_changelog.md",
+    "zipUrl": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@master/zygisk_shamiko.zip",
+    "changelog": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@master/zygisk_shamiko_changelog.md",
     "version": "v0.7.2",
     "versionCode": "172"
 }
