@@ -1,5 +1,6 @@
 {
-    "changelog": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@main/zygisk_lsposed_changelog.md",
+    "zipUrl": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@master/zygisk_lsposed.zip",
+    "changelog": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@master/zygisk_lsposed_changelog.md",
     "version": "v1.8.6",
     "versionCode": "6712"
 }
