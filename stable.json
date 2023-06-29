@@ -1,12 +1,11 @@
 {
     "magisk": {
-        "link": "http://note.youdao.com/yws/api/personal/file/WEB6190e1d40fce8894b5023d445002e492?method=download&inline=true&shareKey=fd017f1af089cbe03c137abe05cb88c0",
-        "note": "https://topjohnwu.github.io/Magisk/releases/26100.md",
-        "version": "26.1",
-        "versionCode": "26101"
+        "version": "981ccabb",
+        "versionCode": "25210",
+        "link": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@main/app-release.apk",
+        "note": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@main/magisk_changelog.md"
     },
     "stub": {
-        "link": "http://note.youdao.com/yws/api/personal/file/WEB5a80e2fbebd094b9f253de714f7f291b?method=download&inline=true&shareKey=76d736e3872836b3f95ba7fb4b145cb8",
-        "versionCode": "1"
+        "versionCode": null
     }
 }
