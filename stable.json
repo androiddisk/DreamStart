@@ -6,6 +6,7 @@
         "note": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@master/magisk_changelog.md"
     },
     "stub": {
-        "versionCode": "1"
+        "versionCode": "1",
+        "link": "https://cdn.jsdelivr.net/gh/androiddisk/DreamStart@master/stub-release.apk"
     }
 }
